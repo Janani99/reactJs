@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "practice Coding"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Read about AI"
+    }
+  ]
+}
